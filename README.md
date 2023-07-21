@@ -4,11 +4,11 @@ This will be a collection of notes I take while learning C++.
 Feel free to use this as a resource, but I am by no means a professional.
 
 ## Goals:
-- [ ] Hello World
-- [ ] Variables
-- [ ] Const Statement
-- [ ] Namespace
-- [ ] Typedef and type aliases
+- [X] Hello World
+- [X] Variables
+- [x] Const Statement
+- [X] Namespace
+- [X] Typedef and type aliases
 - [ ] Arithmetic operators
 - [ ] Type conversion
 - [ ] User input
